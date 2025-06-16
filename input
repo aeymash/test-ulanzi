@@ -1,1 +1,1 @@
-{"command":"scroll_text","text":"HLRS","speed":60,"r":0,"g":0,"b":255}
+{"command":"scroll_text","text":"Hello HLRS","speed":60,"r":50,"g":50,"b":200}
